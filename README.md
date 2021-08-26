@@ -1,0 +1,4 @@
+- Olá, meu nome é Victor Gominho.
+- Estou interessado no desenvolvimento e programação de jogos!
+- No momento estou aprendendo Python, em breve vou estudar Java.
+- 
