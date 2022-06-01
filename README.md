@@ -1,4 +1,4 @@
 - Olá, meu nome é Victor Gominho.
 - Estou interessado no desenvolvimento e programação de jogos, quero transformar meu hobby e paixão por games em profissão.
-- Completei o curso NExT do CESAR School
-- Conhecimento em Python e Java.
+- Completei o curso NExT e curso FAST do CESAR School
+- Conhecimento em Python, Java, Automação de Testes, MySQL.
